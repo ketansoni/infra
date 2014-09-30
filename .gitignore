@@ -1,0 +1,16 @@
+*.swo
+/.idea
+*.iml
+*.ipr
+*.iws
+*.swp
+.rakeTasks
+.vagrant
+.vagrant.*
+Vagrantfile
+.DS_Store
+tmp
+vendor
+.bundle
+.idea
+
